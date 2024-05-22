@@ -1,0 +1,21 @@
+.adminmanagestyle{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 350px;
+    border: 10px;
+    border-width: 1px;
+    border-style: groove;
+    padding: 20px;
+    padding-left: 5%;
+    padding-top: -5%;
+    /* background-color: #acb7ae; */
+    background-image: linear-gradient(270deg,#355c7d,#6c5b7b,#c06c84);
+}
+.adminmanagestyle button{
+    background-color: #fc5c7d;
+}
+.adminmanagestyle button:hover{
+    background-color: #EFC7B7;
+} 

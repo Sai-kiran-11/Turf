@@ -1,0 +1,46 @@
+.booking-status-container {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+    text-align: center;
+    box-shadow: 4px 4px 8px rgba(0,0,0,0.5);
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 1%;
+}
+.booking-status-container h2{
+    font-size : 24px;
+    margin-bottom : 10px;
+}
+.booking-status-container p {
+    font-size: 18px;
+}
+.Bookingsstatuscontainer{
+    background-color: #e1b382;
+    padding: 20px;
+    border: 1px solid #7d3cff;
+    border-radius: 10px;
+    background-image: linear-gradient(180deg , #8e44ad, #bfe9ff);
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.8);
+    margin-right: 5%;
+    margin-bottom: 20px;
+    flex: 0 0 33.3333%;
+    margin-left: 7%;
+}
+.Bookingsstatuscontainer button {
+    background-color: #56b4d3;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+    font-weight: bold;
+    margin-left: 42%;
+    margin-bottom: 1%;
+  }
+  
+  .Bookingsstatuscontainer button:hover {
+    background-color: #0056b3;
+  }
+
+ 

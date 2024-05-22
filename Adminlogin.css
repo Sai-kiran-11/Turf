@@ -1,0 +1,21 @@
+.adminstyle{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 350px;
+    border: 10px;
+    border-width: 1px;
+    border-style: groove;
+    padding: 20px;
+    padding-left: 5%;
+    padding-top: -5%;
+    /* background-color: #acb7ae; */
+    background-image: linear-gradient(270deg,#c31432,#6b6b83,#3b8d99);
+}
+.adminstyle button{
+    background-color: #C39EA0;
+}
+.adminstyle button:hover{
+    background-color: #EFC7B7;
+} 

@@ -1,0 +1,57 @@
+
+.turf-card {
+    background-color: #e1b382;
+    padding: 20px;
+    border: 1px solid #7d3cff;
+    border-radius: 10px;
+    background-image: linear-gradient(180deg , #ff6e7f, #bfe9ff);
+    /* background-image: linear-gradient(270deg, #7F7FD5, #91EAE4); */
+    /* background-image: radial-gradient(circle, red, yellow, green); */
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.8);
+    margin-right: 5%;
+    margin-bottom: 20px;
+    flex: 0 0 33.3333%;
+    margin-left: 7%;
+  }
+
+  .turf-card button {
+    background-color: #56b4d3;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+    font-weight: bold;
+    margin-left: 30%;
+  }
+  
+  .turf-card button:hover {
+    background-color: #0056b3;
+  }
+
+  .turf-cards {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0%;
+
+  }
+  .turfmain{
+    /* background-color: #393f4d; */
+    margin: 0%;
+    /* background-image: linear-gradient(60deg, #9e1f63, #392d91);
+     */
+     /* background :linear-gradient(70deg,#31b7c2,#7bc393 ); */
+
+  }
+  .main h1 {
+    color: black;
+    /* color:  linear-gradient(60deg, #9e1f63, #392d91); */
+  }
+  
+  .turfList{
+
+    margin: 0;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    margin-left: 30%;
+    font-family: sans-serif;
+  }

@@ -1,0 +1,35 @@
+
+
+.topnav {
+  height: 55px;
+  padding: 10px 20px;
+  background-color: #fff;
+  /* border-bottom : 1px solid #000;  */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.7); 
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* background :linear-gradient(70deg,#31b7c2,#7bc393 ); */
+  background :linear-gradient(70deg,#31b7c2,#a5cc82 );
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+  color: #000;
+}
+
+.details {
+  display: flex;
+  gap: 20px;
+}
+
+.details span {
+  text-decoration: none;
+  color: #000;
+  font-weight: 600;
+}
+link{
+  color: #000;
+}
+
